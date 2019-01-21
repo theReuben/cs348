@@ -1,1 +1,15 @@
+1. Colours poor for colourblind people on home page
+2. Text of fruit name same size as subtext
+3. Pictures of fruit different sizes, not alligned
+4. Buttons too small
+5. Table lines on produce page
+6. Doesnt respond when fruit added
+7. Adding doesn't acknowledge weight
+8. No prices
+9. No way to go back from the invoice
+10. Can type in invoice
+11. View basket opens new windows
+12. Font too small everywhere
+13. Prices not rounded
+14. Type in number, +/- would be better
 
