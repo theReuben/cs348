@@ -14,7 +14,7 @@
           for (var product in productDetails) {
             document.write('       <tr>\n');
             document.write('         <td><img src="img/' + productDetails[product]["image"] + '" class="produce"/></td>\n');
-            document.write('         <td class = "prodName">' + productDetails[product]["name"] + ' + </td>\n');
+            document.write('         <td class = "prodName">' + productDetails[product]["name"] + ' </td>\n');
             document.write('         <td>' + productDetails[product]["units"] + '</td>\n');
             document.write('         <td><input name="' + product + '" id="' + product + '" type="text" value="" style="width: 30px;" /></td>\n');
             document.write('         <td><input name="add' + product + '" type="button" value="add to basket" onclick="javascript:addToBasket(\'' + product + '\', document.getElementById(\'' + product + '\').value)" /></td>\n');
