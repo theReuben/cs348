@@ -18,3 +18,11 @@ tr {
   text-align: centre;
   margin: auto;
 }
+#cart{
+  position: fixed;
+  margin-right: 5px;
+  margin-top: 5px;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
