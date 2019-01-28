@@ -7,8 +7,9 @@ tr {
   position: centre;
 }
 .prodName{
-  
+  font-size: 30px;
 }
 .prodDesc{
-
+  font-size: 20px;
+  tex-align: centre;
 }
