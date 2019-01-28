@@ -15,5 +15,6 @@ tr {
 }
 .prodDesc{
   font-size: 20px;
-  tex-align: centre;
+  text-align: centre;
+  margin: auto;
 }
